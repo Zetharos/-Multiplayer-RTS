@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 990989ff73503aa46bfa90e1acbccf09, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 477cc4148fad3449482a3bc3178594e2, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -214,6 +214,7 @@ MonoBehaviour:
   - {fileID: 1752426324376056618, guid: 5ae24d37b67947f48aa943fa27cf0483, type: 3}
   - {fileID: 5197473080073761397, guid: 6eadefbb1dbcefc4db4d138f0afd6f25, type: 3}
   unitSpawnerPrefab: {fileID: 1752426324376056618, guid: 5ae24d37b67947f48aa943fa27cf0483, type: 3}
+  gameOverHandlerPrefab: {fileID: 0}
 --- !u!114 &112316386
 MonoBehaviour:
   m_ObjectHideFlags: 0

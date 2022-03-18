@@ -229,15 +229,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 659902103100363856, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.62155
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 659902103100363856, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3005118
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 659902103100363856, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.2498965
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 659902103100363856, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -271,22 +271,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NetworkManager
       objectReference: {fileID: 0}
-    - target: {fileID: 659902103100363861, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
-      propertyPath: onlineScene
-      value: Assets/Scenes/Scene_Map_01.unity
-      objectReference: {fileID: 0}
-    - target: {fileID: 659902103100363861, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
-      propertyPath: offlineScene
-      value: Assets/Scenes/Scene_Menu.unity
-      objectReference: {fileID: 0}
-    - target: {fileID: 659902103100363861, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
-      propertyPath: spawnPrefabs.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 659902103100363861, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
-      propertyPath: spawnPrefabs.Array.data[2]
-      value: 
-      objectReference: {fileID: 5929600840762159353, guid: 955672d773b66904da7bdc82b46d78df, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8c8401b84bcc8c4da77895e527ed45c, type: 3}
 --- !u!1 &1257055259
